@@ -1,0 +1,48 @@
+{
+"Artist": {"S": "Iron Maiden"},
+"SongTitle": {"S": "Run to the Hills"},
+"AlbumTitle": {"S": "The Number of the Beast"},
+"SongYear": {"S": "1982"}
+}
+
+{
+"Artist": {"S": "Iron Maiden"},
+"SongTitle": {"S": "Caught Somewhere in Time"},
+"AlbumTitle": {"S": "Somewhere in Time"},
+"SongYear": {"S": "1986"}
+}
+
+{
+"Artist": {"S": "Iron Maiden"},
+"SongTitle": {"S": "Fortunes of War"},
+"AlbumTitle": {"S": "Fear of the Dark"},
+"SongYear": {"S": "1992"}
+}
+
+{
+"Artist": {"S": "Iron Maiden"},
+"SongTitle": {"S": "Chains of Misery"},
+"AlbumTitle": {"S": "The X Factor"},
+"SongYear": {"S": "1995"}	
+}
+
+{
+  "Artist": {"S": "Metallica"},
+  "SongTitle": {"S": "Enter Sandman"},
+  "AlbumTitle": {"S": "The Black Album"},
+  "SongYear": {"S": "1991"}
+}
+
+{
+"Artist": {"S": "Metallica"},
+"SongTitle": {"S": "The Unforgiven II"},
+"AlbumTitle": {"S": "ReLoad"},
+"SongYear": {"S": "1997"}
+}
+
+{
+"Artist": {"S": "Metallica"},
+"SongTitle": {"S": "Some Kind of Monster"},
+"AlbumTitle": {"S": "St. Anger"},
+"SongYear": {"S": "2003"}
+}
